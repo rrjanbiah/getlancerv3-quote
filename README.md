@@ -1,3 +1,41 @@
+Getlancer-Quote is an Open Source service marketplace script which enables the entrepreneur to run a successful Thumbtack similar website of their own.
+
+![Thumbtack Clone Website](https://user-images.githubusercontent.com/43058084/45251565-e7fd3500-b365-11e8-8e83-34f2983d6f67.png)
+
+**How it works**
+
+[Thumbtack clone](https://www.agriya.com/products/thumbtack-clone) script defines two communities, service provider and the others who wants the service to get it done. Users can post their request by means of job and that will be notified to all the service professionals who are expertise in the particular area of interest. So the service pro can send quote to the defined task therefore you can get multiple quotes from several service pro as well. 
+
+Once you finalize with the particular service pro, then you can communicate with them and get your job done. Once the job completes, Service pro and the others can review each other.
+
+![Thumbtack Clone](https://user-images.githubusercontent.com/43058084/45252743-aecec000-b379-11e8-8e42-aa13636f3c4b.png)
+
+**What is Special in our Agriya's Thumbtack Clone Script**
+
+  Besides the mushrooming features in our competitve service marketplace script, there are certain key features which we represent as a
+  functional USP's of this Thumbtack clone product.
+  
+**Geo Location Based Listing**
+
+  Ease of finding your local service provider with our Geo-based listing functionality with crystal clear accuracy.
+  
+**Intuitive Category Management**
+
+  Whatever be your business model is, we made our script with dynamic form builder whereby you can create any service to the extent      without having any difficulties.
+
+**Dual Sign up**
+
+Every coin has two sides. Similarly, one can be either Service pro or an user based on their instance. Through a single access details, they can act as both the roles.
+
+**Interoperability**
+
+Tired of updating the website whenever the new trend unveils? Agriya's Thumbtack clone script is power-packed with Front and Back approach. So you can have an absolute freedom to customize the website easily with oyur intended data metrics.
+
+**AI Enabled Script**
+
+Most of the functionalities are automated as it feels the current stats and takes you to the intended space where you can obtain your needed data as well. We indulged with bot mechanism with the script to make it more friendly with the search engines.
+
+
 Installation Steps
 ------------------
 # Server Requirements
